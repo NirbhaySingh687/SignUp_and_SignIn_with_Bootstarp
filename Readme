@@ -1,0 +1,24 @@
+# Staff_CRM
+Frontend Sever running on By default 3000
+Backend Server running on Port 5000
+DataBase i have postgres to store the login Data and user data
+First of All you have to Register and your will Credential save to database
+Login will help to extract your data by email and password from database
+
+//Staff Data
+create staff pannel to add the new staff and delete the staff
+it have some mandatory field 
+1- name 
+2- email
+3- department
+4- Designation
+
+//Crm
+List and card
+list contain all card 
+card have task which is assigned to user
+
+DRAG AND DROP functionality
+1-drag the card from one index from list and put it another index in the same list
+2- drag the card from one list and put and it on another list
+3 adding the addinal list feature and addinal card features
