@@ -16,7 +16,7 @@ Create TABLE user_data(
     first_name VARCHAR(255) NOT NULL,
     last_name VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL,
-    is_active BOOLEAN,
+    is_active BOOLEAN default true,
     departments VARCHAR(255),
     designation VARCHAR(255)
 );

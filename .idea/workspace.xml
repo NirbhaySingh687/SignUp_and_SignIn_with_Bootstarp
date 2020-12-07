@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d782e5d-399d-4ea1-9098-bf839a40aece" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Server/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Server/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/router/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server/router/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/form.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/SignIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/SignUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/layout/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/components/layout/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/context/UserContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/src/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lHsKUQ1pr4fJHuY9MChj5vNJ4u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d782e5d-399d-4ea1-9098-bf839a40aece" name="Default Changelist" comment="" />
+      <created>1607265287499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607265287499</updated>
+      <workItem from="1607265289089" duration="12537000" />
+      <workItem from="1607358094917" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
